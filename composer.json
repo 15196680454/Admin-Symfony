@@ -1,0 +1,9 @@
+
+{
+    "name": "inklings/laravel-indieauth-tokens",
+    "description": "Laravel package for indieauth token endpoint",
+    "license": "MIT, CC0",
+    "authors": [
+        {
+            "name": "Ben Roberts",
+            "email": "ben@thatmustbe.me"
