@@ -22,4 +22,5 @@
                 "shasum": ""
             },
             "require-dev": {
-                "php": ">=5
+                "php": ">=5.3",
+           
