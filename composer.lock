@@ -25,4 +25,5 @@
                 "php": ">=5.3",
                 "phpunit/phpunit": "*"
             },
-            "suggest"
+            "suggest": {
+   
