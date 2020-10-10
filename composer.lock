@@ -26,4 +26,4 @@
                 "phpunit/phpunit": "*"
             },
             "suggest": {
-                "mf2/mf2": "To parse
+                "mf2/mf2": "To parse micro
