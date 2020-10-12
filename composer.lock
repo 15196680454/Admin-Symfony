@@ -26,4 +26,4 @@
                 "phpunit/phpunit": "*"
             },
             "suggest": {
-                "mf2/mf2": "To parse microformats2 struc
+                "mf2/mf2": "To parse microformats2 structures fro
