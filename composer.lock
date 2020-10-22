@@ -31,4 +31,5 @@
             "type": "library",
             "autoload": {
                 "files": [
-                    "src/BarnabyWalters/Mf2/Functions
+                    "src/BarnabyWalters/Mf2/Functions.php"
+ 
