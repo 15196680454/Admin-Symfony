@@ -62,4 +62,5 @@
                 "shasum": ""
             },
             "require": {
-                "barnabywalters/mf-c
+                "barnabywalters/mf-cleaner": "0.*",
+  
