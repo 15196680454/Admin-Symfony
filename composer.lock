@@ -63,4 +63,4 @@
             },
             "require": {
                 "barnabywalters/mf-cleaner": "0.*",
-                "indieweb/link-re
+                "indieweb/link-rel-parser"
