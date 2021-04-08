@@ -67,4 +67,5 @@
                 "mf2/mf2": "~0.3",
                 "php": ">5.3.0"
             },
-            "type": "libra
+            "type": "library",
+     
