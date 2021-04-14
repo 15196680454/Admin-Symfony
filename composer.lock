@@ -70,4 +70,5 @@
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "IndieAuth": "sr
+                    "IndieAuth": "src/"
+  
