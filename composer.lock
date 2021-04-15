@@ -71,4 +71,4 @@
             "autoload": {
                 "psr-0": {
                     "IndieAuth": "src/"
-  
+           
