@@ -106,4 +106,4 @@
             "type": "library",
             "autoload": {
                 "files": [
-                    "src/IndieWeb/link_rel_p
+                    "src/IndieWeb/link_rel_parser.php
