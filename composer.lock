@@ -123,4 +123,5 @@
                     "homepage": "http://tantek.com"
                 }
             ],
-            "description": "Parse rel values from HTTP headers
+            "description": "Parse rel values from HTTP headers",
+       
