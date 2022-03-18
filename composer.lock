@@ -124,4 +124,5 @@
                 }
             ],
             "description": "Parse rel values from HTTP headers",
-            "homepage": "https://github.com/indieweb/link-rel-p
+            "homepage": "https://github.com/indieweb/link-rel-parser-php",
+ 
