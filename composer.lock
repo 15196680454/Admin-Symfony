@@ -147,4 +147,4 @@
                 "shasum": ""
             },
             "require": {
-                "ph
+                "php": ">=5.4
