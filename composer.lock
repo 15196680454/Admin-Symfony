@@ -153,4 +153,4 @@
                 "phpunit/phpunit": "3.7.*"
             },
             "suggest": {
-                "barnabywalters/mf-cleaner": "To more easily handle the canonical data php-
+                "barnabywalters/mf-cleaner": "To more easily handle the canonical data php-mf2 gives y
