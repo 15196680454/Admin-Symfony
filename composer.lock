@@ -157,4 +157,4 @@
             },
             "bin": [
                 "bin/fetch-mf2",
-                "bin/pa
+                "bin/parse-mf2"
