@@ -159,4 +159,4 @@
                 "bin/fetch-mf2",
                 "bin/parse-mf2"
             ],
-            "type
+            "type": "libr
