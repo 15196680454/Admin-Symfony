@@ -160,4 +160,5 @@
                 "bin/parse-mf2"
             ],
             "type": "library",
-            "autoload
+            "autoload": {
+   
