@@ -162,4 +162,5 @@
             "type": "library",
             "autoload": {
                 "files": [
-                    "Mf2/Pars
+                    "Mf2/Parser.php"
+   
