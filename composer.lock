@@ -188,4 +188,5 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "de
+    "minimum-stability": "dev",
+   
