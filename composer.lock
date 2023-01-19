@@ -189,4 +189,4 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stabili
+    "stability-flags"
