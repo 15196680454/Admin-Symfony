@@ -190,4 +190,4 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": [],
-    "prefer-stable": fa
+    "prefer-stable": false,
