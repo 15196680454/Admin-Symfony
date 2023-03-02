@@ -191,4 +191,5 @@
     "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
-    "prefer-lowes
+    "prefer-lowest": false,
+ 
