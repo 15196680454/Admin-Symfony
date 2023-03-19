@@ -192,4 +192,5 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "plat
+    "platform": [],
+    
