@@ -22,3 +22,9 @@ class IndieauthServiceProvider extends ServiceProvider
      *
      * @return void
      */
+    public function register()
+    {
+        //
+    }
+}
+ 
