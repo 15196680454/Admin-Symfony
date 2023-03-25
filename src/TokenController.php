@@ -30,3 +30,8 @@ class TokenController extends Controller
 
             if (!$ch) {
                 $this->log->write('error with curl_init');
+            }
+
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_POST, true);
+            curl_setopt($ch, CURLOPT_POSTFIELDS, $post_data);
