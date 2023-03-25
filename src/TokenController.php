@@ -22,3 +22,11 @@ class TokenController extends Controller
                 'redirect_uri'  => $request['redirect_uri'],
                 'client_id'     => $request['client_id'],
                 'state'         => $request['state']
+            ));
+
+            $auth_endpoint = IndieAuth\Client::discoverAuthorizationEndpoint($request['me']);
+
+            $ch = curl_init($auth_endpoint);
+
+            if (!$ch) {
+                $this->log->write('error with curl_init');
