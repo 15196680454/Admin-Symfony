@@ -35,3 +35,16 @@ class TokenController extends Controller
             curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
             curl_setopt($ch, CURLOPT_POST, true);
             curl_setopt($ch, CURLOPT_POSTFIELDS, $post_data);
+
+            $response = curl_exec($ch);
+
+            $results = array();
+            parse_str($response, $results);
+
+            if ($results['me']) {
+
+                $user = $results['me'];
+                $scope = $results['scope'];
+                $client_id = $this->request->post['client_id'];
+
+                $token = 'asdfasdfasdfasdf';
