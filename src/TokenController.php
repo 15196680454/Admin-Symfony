@@ -48,3 +48,10 @@ class TokenController extends Controller
                 $client_id = $this->request->post['client_id'];
 
                 $token = 'asdfasdfasdfasdf';
+                //TODO
+                //$this->load->model('auth/token');
+                //$token = $this->model_auth_token->newToken($user, $scope, $client_id);
+                //TODO
+
+                $this->response->setOutput(http_build_query(array(
+                    'access_token' => $token,
