@@ -55,3 +55,14 @@ class TokenController extends Controller
 
                 $this->response->setOutput(http_build_query(array(
                     'access_token' => $token,
+                    'scope' => $scope,
+                    'me' => $user)));
+            } else {
+                header('HTTP/1.1 400 Bad Request');
+                exit();
+            }
+        } else {
+            header('HTTP/1.1 400 Bad Request');
+            exit();
+        }
+    }
