@@ -66,3 +66,5 @@ class TokenController extends Controller
             exit();
         }
     }
+ 
+}
